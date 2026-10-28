@@ -1,2 +1,2 @@
-# CSC102-Java-OOP-Assignment
-Made some changes upon the previous code
+This project make for send a assignment
+we have 5 people 
